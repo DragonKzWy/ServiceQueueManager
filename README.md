@@ -1,4 +1,3 @@
-```markdown
 # Service Queue Simulation
 
 This is a Ruby-based simulation of a service queue, such as those found in banks or supermarkets. The application models customer arrivals, service times, and queue behavior, providing statistical insights into the system's performance.
